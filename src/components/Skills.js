@@ -10,7 +10,7 @@ const Skills = () => {
           <div className="col-md-6 col-xs-12 ">
             <div className="exp-card">
               <h4 className="text-center color-primary">
-                Frontent Development
+                Frontend Development
               </h4>
 
               <div className="  d-flex justify-content-around p-3">
