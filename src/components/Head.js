@@ -1,5 +1,5 @@
 import React from "react";
-import harshit from "../resume/harshit.pdf";
+import myresume from "../resume/harshit.pdf";
 
 const Head = () => {
   return (
@@ -13,7 +13,7 @@ const Head = () => {
           <a
             // target="_blank"
             // rel="noreferrer"
-            href={harshit}
+            href={myresume}
             download
           >
             <button className=" m-2 btn-out">Download CV</button>
