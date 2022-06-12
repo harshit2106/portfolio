@@ -8,6 +8,7 @@ const Head = () => {
         <h5>Hello I'm</h5>
         <h3>Harshit Singh</h3>
         <h6 className="text-fade">Web Developer</h6>
+
         <div className="d-flex mb-5">
           <a
             // target="_blank"
