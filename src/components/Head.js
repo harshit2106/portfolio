@@ -1,5 +1,5 @@
 import React from "react";
-import myresume from "../resume/harshit.pdf";
+import myresume from "../resume/myresume.pdf";
 
 const Head = () => {
   return (
